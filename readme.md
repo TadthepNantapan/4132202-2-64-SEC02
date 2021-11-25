@@ -6,7 +6,7 @@
 
 **เทคโนโลนีอินเทอร์เน็ต**
 
-**colne**
+**Colne**
 > git clone https://github.com/TadthepNantapan/4132202-2-64-SEC02.git
 
 **Link**
